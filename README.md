@@ -9,4 +9,4 @@ but intriguing papers will also get recommended.</p>
 </div>
 
 ------------------------------------------
-LSTM-based word embeddings, Doc2Vec, Sentence-BERT and Universal Sentence Encoder(USE). TF-IDF gave good result based on specific words. sentence-BERT and USE are good at giving recommendations even query does not have specific key-words. Doc2Vec and LSTM based methods gave poor results. </div>
+We implemented five different approaches, 'TF-IDF', 'LSTM-based word embeddings', 'Doc2Vec', 'Sentence-BERT' and 'Universal Sentence Encoder(USE)'. TF-IDF gave good result based on specific words. sentence-BERT and USE are good at giving recommendations even query does not have specific key-words. Doc2Vec and LSTM based methods gave poor results. </div>
